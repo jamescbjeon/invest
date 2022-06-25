@@ -1,0 +1,3 @@
+** IDEA
+
+. position.xlsx : 종목 목록 --> position.ipynb, monitoring.ipynb에서 동시에 사용
